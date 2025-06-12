@@ -1,0 +1,15 @@
+{
+  "originHash" : "c5c3851556fbf11aa56e96db7ced51c2c0df31f4aa02c674e60f052258cfc814",
+  "pins" : [
+    {
+      "identity" : "wikipediakit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Raureif/WikipediaKit.git",
+      "state" : {
+        "revision" : "09538e1383017e50a2a940ebc72d0c62c8b4488c",
+        "version" : "3.0.4"
+      }
+    }
+  ],
+  "version" : 3
+}
