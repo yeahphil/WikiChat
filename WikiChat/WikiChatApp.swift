@@ -12,7 +12,7 @@ import WikipediaKit
 struct WikiChatApp: App {
     
     init() {
-        WikipediaNetworking.appAuthorEmailForAPI = "phil@yearofcode.com"
+        WikipediaNetworking.appAuthorEmailForAPI = "your@email.here"
     }
     
     
