@@ -2,6 +2,8 @@
 
 WikiChat is a small demonstration application that showcases Apple's new `FoundationModels` framework. It allows you to have a conversation with a Wikipedia article, asking questions and getting answers based on the article's content. Because of context limits, you're actually chatting with the text of the article preview, not the full article.
 
+<img width="300" alt="IMG_3415" src="https://github.com/user-attachments/assets/d9d10f26-d7da-495b-bde3-3011e6e5f617" />
+
 ## How it Works
 
 1.  **Search:** You can search for any article on Wikipedia.
